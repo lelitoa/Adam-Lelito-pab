@@ -1,15 +1,24 @@
 {
-  "name": "projekt-1",
+  "name": "adam-lelito-pab",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelitoa/Adam-Lelito-pab.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelitoa/Adam-Lelito-pab/issues"
+  },
+  "homepage": "https://github.com/lelitoa/Adam-Lelito-pab#readme",
   "dependencies": {
+    "@types/node": "^17.0.21",
     "express": "^4.17.3",
     "typescript": "^4.6.2"
   }
